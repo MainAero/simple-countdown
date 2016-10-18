@@ -1,0 +1,17 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "Simple countdown",
+  "main": "countdown.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  },
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "author": "MainAero",
+  "license": "MIT"
+}
